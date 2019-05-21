@@ -15,6 +15,7 @@ public class Test {
 		System.out.println("安美娇3");
 		System.out.println("安美娇4");
 		System.out.println("安美娇5");
+		System.out.println("安美娇冲突1");
 
 	}
 
